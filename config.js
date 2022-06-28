@@ -48,16 +48,16 @@ global.socialm = "GitHub: Faturrbotz" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bombdy
-global.botname = "KannaBOT-MD" //ur bot name
+global.botname = "BagasBOT-MD" //ur bot name
 global.websitex = "https://tiktok.com/@gw.faturr" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "KannaBOT-MD\n\n\n\n\n\n\ "
 global.author = "By FATURRAHMAN"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6283813063969'] //ur owner tag
-global.ownernummenu = ['6283813063969'] //ur owner number in menu and all
-global.watermark = "Created By © Faturr." //ur watermark
+global.ownertag = ['62881010244718'] //ur owner tag
+global.ownernummenu = ['62881010244718'] //ur owner number in menu and all
+global.watermark = "Created By © BagasZ." //ur watermark
 global.botscript = "www.xnxx.com"
 global.linkz1 = "https://tiktok.com/@gw.faturr"
 global.linkz2 = "-"
